@@ -16,7 +16,7 @@ body {
 .listing {
   float: left;
   transition: width .2s, height .2s, font-size .1s;
-  width: 10%;
+  width: 150;
   height: 165px;
   background-color: rgb(204, 204, 204);
   text-align: center;
